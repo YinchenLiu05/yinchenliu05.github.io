@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Yinchen Liu (刘胤辰)"
 # non-empty description required: otherwise jekyll-github-metadata substitutes the GitHub repo tagline
-description              : "Yinchen Liu's academic homepage — theoretical computer science at IIIS (Yao Class), Tsinghua University."
+description              : "Yinchen Liu's academic homepage — theoretical computer science at Tsinghua University."
 repository               : "YinchenLiu05/YinchenLiu05.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yinchen Liu"
   avatar           : "images/avatar.jpg"
-  bio              : "Undergrad @ IIIS<br>Tsinghua University"
+  bio              : "Undergraduate<br>Tsinghua University"
   location         : "Beijing, China"
   employer         :
   pubmed           :

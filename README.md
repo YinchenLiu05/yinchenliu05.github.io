@@ -1,6 +1,6 @@
 # YinchenLiu05.github.io
 
-Personal academic homepage of **Yinchen Liu (刘胤辰)** — undergraduate at IIIS (Yao Class), Tsinghua University.
+Personal academic homepage of **Yinchen Liu (刘胤辰)** — undergraduate at Tsinghua University.
 
 Live at <https://yinchenliu05.github.io>.
 
